@@ -1,7 +1,7 @@
 # Lovelocal
 Solution for interview assignment questions of Lovelocal company.
 ## Easy
-#### Given a string s consisting of words and spaces, return the length of the last word in the string.
+#### Given a string s consisting of words and spaces,return the length of the last word in the string.
 A word is a maximal 
 substring consisting of non-space characters only.
 Explanation:-
